@@ -1,6 +1,6 @@
 let getal = 0;
 
-function fuckthis() {
+function fhis() {
     console.log("Onlick ran, getal: " + getal);
     getal++;
     if (getal > 10) {
